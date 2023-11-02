@@ -8,7 +8,7 @@ To ensure the success of the web application, it is important to interact with c
 
 Overall, an online fishery market web application has the potential to promote sustainable agricultural development and support the livelihoods of small-scale fish farmers and fisherfolk. 
 
-------------Intructions------------
+------------Instruction------------
 
 Step 1: Download the OFM test 1 folder and put it into htdocs directory folder
 
